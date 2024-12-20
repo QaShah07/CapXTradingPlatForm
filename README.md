@@ -1,0 +1,2 @@
+# CapXTradingPlatForm
+Stock Trading Platform
